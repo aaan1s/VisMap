@@ -10,22 +10,22 @@ Requirements and Installation.
 
  In order to run the script, you need:
 
- 1) Python
+ 1) Python.
     Im using Python3.8 x64 and strongly advise you to download it from the official website (https://www.python.org/).
 
- 2) (The Visualization Toolkit) VTK’s python interface
+ 2) (The Visualization Toolkit) VTK’s python interface.
     The current version (9.1.0) of VTK, available via pip, unfortunately completely breaks the Mayavi installation process 
     (therefore, the method of installation via pip proposed on the official Mayavi website is likely to lead to an error, but you might still try).
     You need to use version 9.0.1. 
     Just in case, I attach a whl file for win64 and linux, which will install the necessary working version. Just write on the command line:
     "pip install vtk-9.0.1-cp_38-cp_38-win_amd64.whl"
 
- 3) PyQt5; PyOpenGl; Mayavi
+ 3) PyQt5; PyOpenGl; Mayavi.
     It is installed easily using pip, which comes bundled with python, you just need to write on the command line:
     "pip install PyQt5 PyOpenGl Mayavi"
     and the necessary components themselves will be downloaded and installed
 
- 4) Multiwfn
+ 4) Multiwfn.
     Any version will do, you can download it for free from the official website
 
 
