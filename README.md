@@ -30,7 +30,7 @@ Requirements and Installation.
 
 
 
-Necessary ñode modification.
+Necessary code modification.
 ============================
 
  "Multiwfnpath" variable should be changed if the path to the multiwfn differs from 'Multiwfn' (if you did not specify the path or for some other reason)
